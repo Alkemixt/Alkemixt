@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alkemixt
-- 👀 I’m interested in Python, CHESS and Beauty.
+- 👀 I’m interested in Python, CHESS.
 - 🌱 I’m currently learning Python.
 - 📫 Contact me via email: ti46@outlook.com
 
