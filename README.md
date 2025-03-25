@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alkemixt
+- 👋 Hi, I’m Talha Ismail
 - 👀 I’m interested in Python, CHESS.
 - 🌱 I’m currently learning Python.
 - 📫 Contact me via email: ti46@outlook.com
