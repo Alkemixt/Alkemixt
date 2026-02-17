@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Talha Ismail
 - 👀 I’m interested in Python, CHESS.
 - 🌱 I’m currently learning Python.
-- 📫 Contact me via email: ti46@outlook.com
+- 📫 Contact me via email: talhaismailmehar@gmail.com
 
 <!---
 Alkemixt/Alkemixt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
